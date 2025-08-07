@@ -1,0 +1,10 @@
+Author: HRITIK-RANJAN <hritikranjan045@gmail.com>
+Date:   Thu Aug 7 14:00:21 2025 +0530
+
+    third commit
+
+diff --git a/distance.cpp b/distance.cpp
+index b0effa9..62d7f45 100644
+--- a/distance.cpp
++++ b/distance.cpp
+@@ -1,5 +1,6 @@
